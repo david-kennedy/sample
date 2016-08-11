@@ -37,6 +37,10 @@ We had fun building DAVIS and now it is your turn to enjoy the magic of DAVIS po
 
 #### <i class="icon-file"></i> Create a new a new davis project
 
+####<i  class="https://s3.amazonaws.com/davis-project/cog.jpeg"></i>  Some great code goes here
+
+![blah](https://s3.amazonaws.com/davis-project/cog.jpeg) lets export this file now.
+
 
 
 
